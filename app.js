@@ -1,4 +1,4 @@
-const PASSWORD = "NFA2026";
+const PASSWORD = "nfa2026";
 const STORAGE_AUTH = "nfa_auth_ok";
 const STORAGE_FAV = "nfa_favorites_v1";
 
