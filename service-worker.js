@@ -1,4 +1,4 @@
-const CACHE_NAME = "nfa-program-v3";
+const CACHE_NAME = "nfa-program-v4";
 
 const URLS = [
   "./",
