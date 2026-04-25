@@ -84,7 +84,7 @@
   {
     "day": "Day1 (June 27, 2026)",
     "slot": "AM1 (10:00–12:00)",
-    "room": "Room 3 (8503)",
+    "room": "Room 3 (8603)",
     "session_no": 22,
     "session_title": "News, Factors, and Asset Pricing",
     "language": "English",
@@ -125,7 +125,7 @@
   {
     "day": "Day1 (June 27, 2026)",
     "slot": "PM1 (13:00–15:00)",
-    "room": "Room 4 (8504)",
+    "room": "Room 4 (8604)",
     "session_no": 25,
     "session_title": "Intermediaries, Contracts, and Credit",
     "language": "English",
@@ -289,7 +289,7 @@
   {
     "day": "Day1 (June 27, 2026)",
     "slot": "PM1 (13:00–15:00)",
-    "room": "Room 3 (8503)",
+    "room": "Room 3 (8603)",
     "session_no": 20,
     "session_title": "ESG Signals and Valuation Risk",
     "language": "English",
@@ -330,7 +330,7 @@
   {
     "day": "Day1 (June 27, 2026)",
     "slot": "AM1 (10:00–12:00)",
-    "room": "Room 4 (8504)",
+    "room": "Room 4 (8604)",
     "session_no": 24,
     "session_title": "Regulation, Disclosure, and Misconduct",
     "language": "English",
@@ -443,7 +443,7 @@
   {
     "day": "Day1 (June 27, 2026)",
     "slot": "PM2 (15:20–16:40)",
-    "room": "Room 3 (8503)",
+    "room": "Room 3 (8603)",
     "session_no": 28,
     "session_title": "Wealth, Work Flexibility, and Mobility",
     "language": "English",
@@ -474,7 +474,7 @@
   {
     "day": "Day1 (June 27, 2026)",
     "slot": "PM2 (15:20–16:40)",
-    "room": "Room 4 (8504)",
+    "room": "Room 4 (8604)",
     "session_no": 31,
     "session_title": "Biases and Technology in M&A",
     "language": "English",
@@ -629,7 +629,7 @@
   {
     "day": "Day2 (June 28, 2026)",
     "slot": "AM1 (10:00–12:00)",
-    "room": "Room 3 (8503)",
+    "room": "Room 3 (8603)",
     "session_no": 21,
     "session_title": "Climate Policy, AI, and Carbon Markets",
     "language": "English",
@@ -670,7 +670,7 @@
   {
     "day": "Day2 (June 28, 2026)",
     "slot": "AM1 (10:00–12:00)",
-    "room": "Room 4 (8504)",
+    "room": "Room 4 (8604)",
     "session_no": 26,
     "session_title": "Valuation Methods and Investment Agents",
     "language": "English",
@@ -834,7 +834,7 @@
   {
     "day": "Day2 (June 28, 2026)",
     "slot": "PM1 (13:00–15:00)",
-    "room": "Room 3 (8503)",
+    "room": "Room 3 (8603)",
     "session_no": 23,
     "session_title": "Intraday Dynamics and Market Microstructure",
     "language": "English",
@@ -875,7 +875,7 @@
   {
     "day": "Day2 (June 28, 2026)",
     "slot": "PM1 (13:00–15:00)",
-    "room": "Room 4 (8504)",
+    "room": "Room 4 (8604)",
     "session_no": 29,
     "session_title": "Debt Structure, Contracts, and Pollution",
     "language": "English",
@@ -937,7 +937,7 @@
   {
     "day": "Day2 (June 28, 2026)",
     "slot": "PM2 (15:20–17:20)",
-    "room": "Room 3 (8503)",
+    "room": "Room 3 (8603)",
     "session_no": 32,
     "session_title": "Volatility Signals and Momentum Predictability",
     "language": "English",
@@ -1091,7 +1091,7 @@
   {
     "day": "Day2 (June 28, 2026)",
     "slot": "PM2 (15:20–17:20)",
-    "room": "Room 4 (8504)",
+    "room": "Room 4 (8604)",
     "session_no": 30,
     "session_title": "Policy, Innovation, and ESG Risks",
     "language": "English",
