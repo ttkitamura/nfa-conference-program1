@@ -79,6 +79,7 @@ function filteredSessions() {
       s.session_title,
       s.language,
       s.chair,
+      s.session_no,
       ...(s.papers || []).flatMap(p => [
         p.paper_title,
         p.presenter,
@@ -109,7 +110,7 @@ function makeSessionCard(s) {
   const key = sessionKey(s);
 
   node.querySelector(".session-meta").textContent =
-    `${s.day} | ${s.slot} | ${s.room}`;
+    `Session ID: ${s.session_no} | ${s.day} | ${s.slot} | ${s.room}`;
 
   node.querySelector(".session-title").textContent =
     s.session_title || `Session ${s.session_no}`;
@@ -142,7 +143,7 @@ function makeSessionCard(s) {
       : `${p.paper_title}`;
 
     paper.innerHTML = `
-      <div class="paper-title">${p.paper_no}. ${title}</div>
+      <div class="paper-title">${p.paper_no}. [Paper ID: ${p.paper_id || ""}] ${title}</div>
       <div class="paper-meta">
         Presenter: ${p.presenter || ""}${p.affiliation ? ` (${p.affiliation})` : ""}<br>
         ${p.coauthors ? `Coauthors: ${p.coauthors}<br>` : ""}
@@ -231,7 +232,7 @@ function renderTimetable(data) {
 
         cell.innerHTML = `
           <div class="room-name">${s.room}</div>
-          <div><strong>${s.session_title}</strong></div>
+          <div><strong>Session ID: ${s.session_no} — ${s.session_title}</strong></div>
           <div class="paper-meta">${s.language} | Chair: ${s.chair || ""}</div>
         `;
 

@@ -4,7 +4,7 @@
     "slot": "AM1 (10:00–12:00)",
     "room": "Room 1 (8503)",
     "session_no": 3,
-    "session_title": "Trading Costs, Time-Risk, Participation",
+    "session_title": "Temporal Risk and Investment Choice",
     "language": "Japanese",
     "chair": "広田　真一",
     "papers": [
@@ -45,7 +45,7 @@
     "slot": "AM1 (10:00–12:00)",
     "room": "Room 2 (8702)",
     "session_no": 1,
-    "session_title": "Intangibles, Disclosure, and Valuation",
+    "session_title": "Valuing Intangibles Through Disclosure",
     "language": "Japanese",
     "chair": "井出真吾",
     "papers": [
@@ -85,213 +85,8 @@
     "day": "Day1 (June 27, 2026)",
     "slot": "AM1 (10:00–12:00)",
     "room": "Room 3 (8603)",
-    "session_no": 22,
-    "session_title": "News, Factors, and Asset Pricing",
-    "language": "English",
-    "chair": "Wei Huang",
-    "papers": [
-      {
-        "paper_no": 1,
-        "paper_id": "37",
-        "paper_title": "The Elusive CAPM: Idiosyncratic News and the Tilt of the Security Market Line",
-        "presenter": "Adam Upenieks",
-        "affiliation": "University of Calgary",
-        "coauthors": "",
-        "discussant": "Madhura Ghosh",
-        "pdf_link": "https://drive.google.com/open?id=1BMyFK6gH11wtSsocJRz0sigZvcgd-AGl"
-      },
-      {
-        "paper_no": 2,
-        "paper_id": "42",
-        "paper_title": "The Explanatory Power of the Fama-French Five-Factor Model in the Indian Stock Market",
-        "presenter": "Madhura Ghosh",
-        "affiliation": "Graduate School of Economics, The University of Osaka",
-        "coauthors": "",
-        "discussant": "Wei Huang",
-        "pdf_link": "https://drive.google.com/open?id=1xrfV5wJ0TqvCIKrx70NT003Q3iRFRdgV"
-      },
-      {
-        "paper_no": 3,
-        "paper_id": "34",
-        "paper_title": "Assessing the Importance of Macroeconomic Announcements",
-        "presenter": "Wei Huang",
-        "affiliation": "University of Minnesota Duluth",
-        "coauthors": "Linda H. Chen (University of Idaho); Wei Huang (University of Minnesota Duluth); George J. Jiang (Washington State University)",
-        "discussant": "Adam Upenieks",
-        "pdf_link": "https://drive.google.com/open?id=1TuSvL1Z0Ysj5NAwe0i18H4dUh518AmQe"
-      }
-    ]
-  },
-  {
-    "day": "Day1 (June 27, 2026)",
-    "slot": "PM1 (13:00–15:00)",
-    "room": "Room 4 (8604)",
-    "session_no": 25,
-    "session_title": "Intermediaries, Contracts, and Credit",
-    "language": "English",
-    "chair": "清水良樹 / Yoshiki Shimizu",
-    "papers": [
-      {
-        "paper_no": 1,
-        "paper_id": "28",
-        "paper_title": "Agency Frictions and Underwriting Compensation: Evidence from Japanese Initial Public Offerings",
-        "presenter": "蔡越",
-        "affiliation": "新潟県立大学",
-        "coauthors": "",
-        "discussant": "陳　柏霖",
-        "pdf_link": "https://drive.google.com/open?id=1IGLEv24LCW8b_-AQWHCazGg3MV2uoynw"
-      },
-      {
-        "paper_no": 2,
-        "paper_id": "63",
-        "paper_title": "Patent Invalidation: Firm and Bank's response",
-        "presenter": "陳　柏霖",
-        "affiliation": "早稲田大学",
-        "coauthors": "",
-        "discussant": "清水良樹 / Yoshiki Shimizu",
-        "pdf_link": "https://drive.google.com/open?id=15fnVXp5rr_MFt0L_7RB1pf0ZWN9azxzs"
-      },
-      {
-        "paper_no": 3,
-        "paper_id": "22",
-        "paper_title": "Never Let Me Go: Why Do Lenders Recall Loaned Shares? Evidence from Japan’s Cross-Shareholding Practice",
-        "presenter": "清水良樹 / Yoshiki Shimizu",
-        "affiliation": "一橋大学",
-        "coauthors": "三浦真理子 (一橋大学)",
-        "discussant": "蔡越",
-        "pdf_link": "https://drive.google.com/open?id=1zb5LDExLLtsq6ETlBkC-RmsVqiE-m8GJ"
-      }
-    ]
-  },
-  {
-    "day": "Day1 (June 27, 2026)",
-    "slot": "AM1 (10:00–12:00)",
-    "room": "Room 5 (8701)",
-    "session_no": 9,
-    "session_title": "Disclosure Quality and Governance Effects",
-    "language": "Japanese",
-    "chair": "湯山智教",
-    "papers": [
-      {
-        "paper_no": 1,
-        "paper_id": "46",
-        "paper_title": "統合報告書の質の評価がもたらす効果の異質性と動的メカニズムの解明　～GPIFアワード受賞企業を対象としたイベントスタディ分析～",
-        "presenter": "森道　裕介",
-        "affiliation": "株式会社QUICK／早稲田大学",
-        "coauthors": "鈴木　一功 (早稲田大学)",
-        "discussant": "山田　徹",
-        "pdf_link": "https://drive.google.com/open?id=1qCEPhmrSaroeKL0dlDDt2yP21UDwUQj_"
-      },
-      {
-        "paper_no": 2,
-        "paper_id": "52",
-        "paper_title": "コーポレート・ガバナンス強化の二面性 ― 有価証券報告書のテキスト解析による実証分析 ―",
-        "presenter": "山田　徹",
-        "affiliation": "野村アセットマネジメント",
-        "coauthors": "後藤 晋吾 (The University of Rhode Island)",
-        "discussant": "湯山智教",
-        "pdf_link": "https://drive.google.com/open?id=163yDg4Y0qpZWy0qSBRAqo9HHIOYAwOw3"
-      },
-      {
-        "paper_no": 3,
-        "paper_id": "64",
-        "paper_title": "人的資本施策と企業パフォーマンスの関連性に関する実証分析 ―企業開示データを用いた機械学習（Lasso回帰）による変数選択アプローチ―",
-        "presenter": "湯山智教",
-        "affiliation": "専修大学",
-        "coauthors": "",
-        "discussant": "森道　裕介",
-        "pdf_link": "https://drive.google.com/open?id=1WpzDSAinvWB-MZiIFKbMnWjyISzR5VT1"
-      }
-    ]
-  },
-  {
-    "day": "Day1 (June 27, 2026)",
-    "slot": "PM1 (13:00–15:00)",
-    "room": "Room 1 (8503)",
-    "session_no": 4,
-    "session_title": "Regimes, Themes, and Market Fragility",
-    "language": "Japanese",
-    "chair": "山本竜市",
-    "papers": [
-      {
-        "paper_no": 1,
-        "paper_id": "1",
-        "paper_title": "Bayesian Structural Break Detection in Factor Models: Application to the Japanese Stock Market",
-        "presenter": "竹原 均",
-        "affiliation": "早稲田大学経営管理研究科",
-        "coauthors": "",
-        "discussant": "岡田克彦",
-        "pdf_link": "https://drive.google.com/open?id=1iYnI5a6ztJyu8KInyekoIPfFFc8zihhi"
-      },
-      {
-        "paper_no": 2,
-        "paper_id": "72",
-        "paper_title": "Momentum without Momentum -Text-Based Themes and Return Predictability in Japan-",
-        "presenter": "岡田克彦",
-        "affiliation": "関西学院大学",
-        "coauthors": "",
-        "discussant": "山本竜市",
-        "pdf_link": "https://drive.google.com/open?id=1UWsfQ2g2cc_Dt75JNOKanfrKN_S1vH2F"
-      },
-      {
-        "paper_no": 3,
-        "paper_id": "21",
-        "paper_title": "Institutional herding and a network approach to stock market crashes: International evidence",
-        "presenter": "山本竜市",
-        "affiliation": "早稲田大学政治経済学術院",
-        "coauthors": "",
-        "discussant": "竹原 均",
-        "pdf_link": "https://drive.google.com/open?id=1CaMahQvCe54nxF7kMMR7XkGaSVAXKogx"
-      }
-    ]
-  },
-  {
-    "day": "Day1 (June 27, 2026)",
-    "slot": "PM1 (13:00–15:00)",
-    "room": "Room 2 (8702)",
-    "session_no": 2,
-    "session_title": "Institutional Governance and Market Assessment",
-    "language": "Japanese",
-    "chair": "芹田　敏夫",
-    "papers": [
-      {
-        "paper_no": 1,
-        "paper_id": "5",
-        "paper_title": "制度の質が企業価値評価に与える調整効果 　－多国籍半導体企業のパネルデータ分析－",
-        "presenter": "佐藤　剛",
-        "affiliation": "東京スター銀行 / 法政大学イノベーション・マネジメント研究センター",
-        "coauthors": "",
-        "discussant": "大森孝造",
-        "pdf_link": "https://drive.google.com/open?id=1K5lfWSsM685raqgEF2Eq3_DA9Y98elGb"
-      },
-      {
-        "paper_no": 2,
-        "paper_id": "83",
-        "paper_title": "Distributor Governance and Mutual Fund Growth",
-        "presenter": "大森孝造",
-        "affiliation": "大阪経済大学",
-        "coauthors": "北村智紀 (武蔵大学)",
-        "discussant": "芹田　敏夫",
-        "pdf_link": "https://drive.google.com/open?id=16RFKtLRa4tywihURHgCmO44u9HyKdBl_"
-      },
-      {
-        "paper_no": 3,
-        "paper_id": "43",
-        "paper_title": "「資産運用会社の議決権行使行動：集計データによる分析」",
-        "presenter": "芹田　敏夫",
-        "affiliation": "青山学院大学",
-        "coauthors": "月岡　靖智 (関西学院大学); 花枝　英樹 (一橋大学)",
-        "discussant": "佐藤　剛",
-        "pdf_link": "https://drive.google.com/open?id=101Dyukb3dYBjRYv07Z5i5AD23o1Ii9Qe"
-      }
-    ]
-  },
-  {
-    "day": "Day1 (June 27, 2026)",
-    "slot": "PM1 (13:00–15:00)",
-    "room": "Room 3 (8603)",
     "session_no": 20,
-    "session_title": "ESG Signals and Valuation Risk",
+    "session_title": "ESG Information and Valuation",
     "language": "English",
     "chair": "Ismailova Elizaveta",
     "papers": [
@@ -331,49 +126,347 @@
     "day": "Day1 (June 27, 2026)",
     "slot": "AM1 (10:00–12:00)",
     "room": "Room 4 (8604)",
-    "session_no": 24,
-    "session_title": "Regulation, Disclosure, and Misconduct",
+    "session_no": 25,
+    "session_title": "Legal and Behavioral Shocks to Financing",
     "language": "English",
-    "chair": "岡田克彦 / Katsuhiko Okada",
+    "chair": "清水良樹 / Yoshiki Shimizu",
     "papers": [
       {
         "paper_no": 1,
-        "paper_id": "8",
-        "paper_title": "Workforce Mobility and Corporate Misconduct: The Governance Effects of Noncompete Agreements",
-        "presenter": "Kentaro Asai",
-        "affiliation": "Kyoto University",
-        "coauthors": "Nhan Le (Australian National University); Qianru Zhang (Australian National University)",
-        "discussant": "Ken Sison",
-        "pdf_link": "https://drive.google.com/open?id=1KMQK-zRrNHfPs_mT3NiVGFR5tOoLJ6ZB"
+        "paper_id": "44",
+        "paper_title": "Self-serving Attribution Bias and Corporate Acquisitions",
+        "presenter": "CHEN YING",
+        "affiliation": "東京科学大学",
+        "coauthors": "木村 遥介 (東京科学大学); 井上光太郎 (東京科学大学)",
+        "discussant": "陳　柏霖",
+        "pdf_link": "https://drive.google.com/open?id=1WCRI8yr4n5gKWCwoQo-RC_RdwWjlpPQo"
       },
       {
         "paper_no": 2,
-        "paper_id": "48",
-        "paper_title": "Do Fraud Triangle Elements and Management Earnings Forecasts Predict Financial Statement Fraud Risk? Evidence from Japan",
-        "presenter": "Ken Sison",
-        "affiliation": "University of Tsukuba",
-        "coauthors": "Mina Ryoke (University of Tsukuba); Keisuke Ito (University of Tsukuba)",
-        "discussant": "岡田克彦 / Katsuhiko Okada",
-        "pdf_link": "https://drive.google.com/open?id=18H5zKWLKEkNfPcFOwmidDvN3h7e1rxYS"
+        "paper_id": "63",
+        "paper_title": "Patent Invalidation: Firm and Bank's response",
+        "presenter": "陳　柏霖",
+        "affiliation": "早稲田大学",
+        "coauthors": "",
+        "discussant": "清水良樹",
+        "pdf_link": "https://drive.google.com/open?id=15fnVXp5rr_MFt0L_7RB1pf0ZWN9azxzs"
       },
       {
         "paper_no": 3,
-        "paper_id": "14",
-        "paper_title": "Disclosure Changes in a Low-Litigation Environment",
-        "presenter": "岡田克彦 / Katsuhiko Okada",
-        "affiliation": "関西学院大学",
-        "coauthors": "中筋萌 (関西学院大学博士後期課程); 月岡靖智 (関西学院大学商学部); 山﨑高弘 (大阪産業大学システム工学部)",
-        "discussant": "Kentaro Asai",
-        "pdf_link": "https://drive.google.com/open?id=1IJEz8RJd2puPHm6PCabNeYOYjaKmxgV-"
+        "paper_id": "22",
+        "paper_title": "Never Let Me Go: Why Do Lenders Recall Loaned Shares? Evidence from Japan’s Cross-Shareholding Practice",
+        "presenter": "清水良樹 / Yoshiki Shimizu",
+        "affiliation": "一橋大学",
+        "coauthors": "三浦真理子 (一橋大学)",
+        "discussant": "CHEN YING",
+        "pdf_link": "https://drive.google.com/open?id=1zb5LDExLLtsq6ETlBkC-RmsVqiE-m8GJ"
       }
     ]
   },
   {
     "day": "Day1 (June 27, 2026)",
-    "slot": "PM1 (13:00–15:00)",
+    "slot": "AM1 (10:00–12:00)",
+    "room": "Room 5 (8701)",
+    "session_no": 9,
+    "session_title": "Disclosure Quality, Governance, Human Capital",
+    "language": "Japanese",
+    "chair": "湯山智教",
+    "papers": [
+      {
+        "paper_no": 1,
+        "paper_id": "46",
+        "paper_title": "統合報告書の質の評価がもたらす効果の異質性と動的メカニズムの解明　～GPIFアワード受賞企業を対象としたイベントスタディ分析～",
+        "presenter": "森道　裕介",
+        "affiliation": "株式会社QUICK／早稲田大学",
+        "coauthors": "鈴木　一功 (早稲田大学)",
+        "discussant": "山田　徹",
+        "pdf_link": "https://drive.google.com/open?id=1qCEPhmrSaroeKL0dlDDt2yP21UDwUQj_"
+      },
+      {
+        "paper_no": 2,
+        "paper_id": "52",
+        "paper_title": "コーポレート・ガバナンス強化の二面性 ― 有価証券報告書のテキスト解析による実証分析 ―",
+        "presenter": "山田　徹",
+        "affiliation": "野村アセットマネジメント",
+        "coauthors": "後藤 晋吾 (The University of Rhode Island)",
+        "discussant": "湯山智教",
+        "pdf_link": "https://drive.google.com/open?id=163yDg4Y0qpZWy0qSBRAqo9HHIOYAwOw3"
+      },
+      {
+        "paper_no": 3,
+        "paper_id": "64",
+        "paper_title": "人的資本施策と企業パフォーマンスの関連性に関する実証分析 ―企業開示データを用いた機械学習（Lasso回帰）による変数選択アプローチ―",
+        "presenter": "湯山智教",
+        "affiliation": "専修大学",
+        "coauthors": "",
+        "discussant": "森道　裕介",
+        "pdf_link": "https://drive.google.com/open?id=1WpzDSAinvWB-MZiIFKbMnWjyISzR5VT1"
+      }
+    ]
+  },
+  {
+    "day": "Day1 (June 27, 2026)",
+    "slot": "PM1 (13:00–14:20)",
+    "room": "Room 2 (8702)",
+    "session_no": 14,
+    "session_title": "Tick Size and Liquidity Dynamics",
+    "language": "Japanese",
+    "chair": "戸辺　玲子",
+    "papers": [
+      {
+        "paper_no": 1,
+        "paper_id": "65",
+        "paper_title": "指値注文市場における流動性供給の期間構造",
+        "presenter": "太田亘",
+        "affiliation": "大阪大学",
+        "coauthors": "",
+        "discussant": "戸辺　玲子",
+        "pdf_link": "https://drive.google.com/open?id=1Jj2V0YOTz1HiOsQiFIKMbbIGuxdv5_bC"
+      },
+      {
+        "paper_no": 2,
+        "paper_id": "55",
+        "paper_title": "When Tick Size Matters: Competitive Dynamics Between the Tokyo Stock Exchange and Alternative Trading Venues",
+        "presenter": "戸辺　玲子",
+        "affiliation": "二松学舎大学",
+        "coauthors": "宇野　淳 (早稲田大学)",
+        "discussant": "太田亘",
+        "pdf_link": "https://drive.google.com/open?id=1MqVoaSZDqKeICUDocSqVspKDDhosHSXs"
+      }
+    ]
+  },
+  {
+    "day": "Day1 (June 27, 2026)",
+    "slot": "PM1 (13:00–14:20)",
+    "room": "Room 3 (8603)",
+    "session_no": 28,
+    "session_title": "Work, Wealth, and Household Choices",
+    "language": "English",
+    "chair": "Wing Lam Cheung",
+    "papers": [
+      {
+        "paper_no": 1,
+        "paper_id": "77",
+        "paper_title": "The Friction of Fortune: Flexible Work Arrangements, Stockholdings, and Residential Mobility in Japan",
+        "presenter": "渡邉正太郎 / WATANABE, Shotaro",
+        "affiliation": "立命館アジア太平洋大学 / Ritsumeikan Asia Pacific University",
+        "coauthors": "",
+        "discussant": "Wing Lam Cheung",
+        "pdf_link": "https://drive.google.com/open?id=1nX1vUWnP3N9RjhsTUjmJv_3G7FRb0oGX"
+      },
+      {
+        "paper_no": 2,
+        "paper_id": "76",
+        "paper_title": "Reconciling the Insurance-Wealth Puzzle",
+        "presenter": "Wing Lam Cheung",
+        "affiliation": "Swiss Finance Institute and University of Geneva",
+        "coauthors": "Jing Xian (Swiss Finance Institute and University of Geneva)",
+        "discussant": "渡邉正太郎 / WATANABE, Shotaro",
+        "pdf_link": "https://drive.google.com/open?id=12NcA6msQfytE7GVAyKX7cWMyblaetKrf"
+      }
+    ]
+  },
+  {
+    "day": "Day1 (June 27, 2026)",
+    "slot": "PM1 (13:00–14:20)",
+    "room": "Room 4 (8604)",
+    "session_no": 31,
+    "session_title": "Agency Frictions in Corporate Transactions",
+    "language": "English",
+    "chair": "Yuanzhe CHENG",
+    "papers": [
+      {
+        "paper_no": 1,
+        "paper_id": "28",
+        "paper_title": "Agency Frictions and Underwriting Compensation: Evidence from Japanese Initial Public Offerings",
+        "presenter": "蔡越",
+        "affiliation": "新潟県立大学",
+        "coauthors": "",
+        "discussant": "Yuanzhe CHENG",
+        "pdf_link": "https://drive.google.com/open?id=1IGLEv24LCW8b_-AQWHCazGg3MV2uoynw"
+      },
+      {
+        "paper_no": 2,
+        "paper_id": "58",
+        "paper_title": "Technological Similarity and Market Reactions to Cross-Industry Tech-Acquisitions",
+        "presenter": "Yuanzhe CHENG",
+        "affiliation": "Institute of Science Tokyo",
+        "coauthors": "Yuanzhe CHENG (Institute of Science Tokyo); Ying CHEN (Institute of Science Tokyo); Kotaro INOUE (Institute of Science Tokyo)",
+        "discussant": "蔡越",
+        "pdf_link": "https://drive.google.com/open?id=1BmNk2xXlcrmQduLQAIwG_6_amkPvbxxx"
+      }
+    ]
+  },
+  {
+    "day": "Day1 (June 27, 2026)",
+    "slot": "PM2 (13:40–16:40)",
+    "room": "Room 1 (8503)",
+    "session_no": 4,
+    "session_title": "Regime Shifts, Text Themes, Herding",
+    "language": "Japanese",
+    "chair": "山本竜市",
+    "papers": [
+      {
+        "paper_no": 1,
+        "paper_id": "1",
+        "paper_title": "Bayesian Structural Break Detection in Factor Models: Application to the Japanese Stock Market",
+        "presenter": "竹原 均",
+        "affiliation": "早稲田大学経営管理研究科",
+        "coauthors": "",
+        "discussant": "岡田克彦",
+        "pdf_link": "https://drive.google.com/open?id=1iYnI5a6ztJyu8KInyekoIPfFFc8zihhi"
+      },
+      {
+        "paper_no": 2,
+        "paper_id": "72",
+        "paper_title": "Momentum without Momentum -Text-Based Themes and Return Predictability in Japan-",
+        "presenter": "岡田克彦",
+        "affiliation": "関西学院大学",
+        "coauthors": "",
+        "discussant": "山本竜市",
+        "pdf_link": "https://drive.google.com/open?id=1UWsfQ2g2cc_Dt75JNOKanfrKN_S1vH2F"
+      },
+      {
+        "paper_no": 3,
+        "paper_id": "21",
+        "paper_title": "Institutional herding and a network approach to stock market crashes: International evidence",
+        "presenter": "山本竜市",
+        "affiliation": "早稲田大学政治経済学術院",
+        "coauthors": "",
+        "discussant": "竹原 均",
+        "pdf_link": "https://drive.google.com/open?id=1CaMahQvCe54nxF7kMMR7XkGaSVAXKogx"
+      }
+    ]
+  },
+  {
+    "day": "Day1 (June 27, 2026)",
+    "slot": "PM2 (13:40–16:40)",
+    "room": "Room 2 (8702)",
+    "session_no": 2,
+    "session_title": "Investor Governance and Valuation",
+    "language": "Japanese",
+    "chair": "芹田　敏夫",
+    "papers": [
+      {
+        "paper_no": 1,
+        "paper_id": "5",
+        "paper_title": "制度の質が企業価値評価に与える調整効果 　－多国籍半導体企業のパネルデータ分析－",
+        "presenter": "佐藤　剛",
+        "affiliation": "東京スター銀行 / 法政大学イノベーション・マネジメント研究センター",
+        "coauthors": "",
+        "discussant": "大森孝造",
+        "pdf_link": "https://drive.google.com/open?id=1K5lfWSsM685raqgEF2Eq3_DA9Y98elGb"
+      },
+      {
+        "paper_no": 2,
+        "paper_id": "83",
+        "paper_title": "Distributor Governance and Mutual Fund Growth",
+        "presenter": "大森孝造",
+        "affiliation": "大阪経済大学",
+        "coauthors": "北村智紀 (武蔵大学)",
+        "discussant": "芹田　敏夫",
+        "pdf_link": "https://drive.google.com/open?id=16RFKtLRa4tywihURHgCmO44u9HyKdBl_"
+      },
+      {
+        "paper_no": 3,
+        "paper_id": "43",
+        "paper_title": "「資産運用会社の議決権行使行動：集計データによる分析」",
+        "presenter": "芹田　敏夫",
+        "affiliation": "青山学院大学",
+        "coauthors": "月岡　靖智 (関西学院大学); 花枝　英樹 (一橋大学)",
+        "discussant": "佐藤　剛",
+        "pdf_link": "https://drive.google.com/open?id=101Dyukb3dYBjRYv07Z5i5AD23o1Ii9Qe"
+      }
+    ]
+  },
+  {
+    "day": "Day1 (June 27, 2026)",
+    "slot": "PM2 (13:40–16:40)",
+    "room": "Room 3 (8603)",
+    "session_no": 21,
+    "session_title": "Climate Policy, Carbon Prices, Decarbonization",
+    "language": "English",
+    "chair": "大坪 陽一 /Yoichi Otsubo",
+    "papers": [
+      {
+        "paper_no": 1,
+        "paper_id": "19",
+        "paper_title": "How Does Climate Policy Uncertainty Reshape the Cumulative Contribution of Oil Price Shocks? A Structural Perspective",
+        "presenter": "Gong Junlian",
+        "affiliation": "Tohoku University",
+        "coauthors": "Nagayasu Jun (Tohoku University)",
+        "discussant": "Shu-Cing Peng",
+        "pdf_link": "https://drive.google.com/open?id=1LiyohdObB8lcMEZyktftd-SmqeZB6Peg"
+      },
+      {
+        "paper_no": 2,
+        "paper_id": "9",
+        "paper_title": "The Role of Artificial Intelligence in Corporate Decarbonization",
+        "presenter": "Shu-Cing Peng",
+        "affiliation": "National Central University",
+        "coauthors": "Sheng-Syan Chen (National Taiwan University); Yan-Shing Chen (National Taiwan University)",
+        "discussant": "大坪陽一",
+        "pdf_link": "https://drive.google.com/open?id=1-O5TXK3NAlMxeXNmkPVjQwXuafKky0Cj"
+      },
+      {
+        "paper_no": 3,
+        "paper_id": "80",
+        "paper_title": "Primary Auction Information, Price Discovery, and Liquidity in Carbon Futures",
+        "presenter": "大坪 陽一 /Yoichi Otsubo",
+        "affiliation": "神戸大学",
+        "coauthors": "大坪陽一 (神戸大学)",
+        "discussant": "Gong Junlian",
+        "pdf_link": "https://drive.google.com/open?id=11yMV0HGv_4jPbHSXlLbpC-oYVX0w89MI"
+      }
+    ]
+  },
+  {
+    "day": "Day1 (June 27, 2026)",
+    "slot": "PM2 (13:40–16:40)",
+    "room": "Room 4 (8604)",
+    "session_no": 26,
+    "session_title": "Valuation, Analysts, GP Performance",
+    "language": "English",
+    "chair": "三輪　宏太郎 / Kotaro Miwa",
+    "papers": [
+      {
+        "paper_no": 1,
+        "paper_id": "12",
+        "paper_title": "Using Machine Learning to Estimate the Effect of General Partners on Venture Capital Performance",
+        "presenter": "Mario Daniele Amore",
+        "affiliation": "Bocconi University",
+        "coauthors": "",
+        "discussant": "Wikrom Prombutr",
+        "pdf_link": "https://drive.google.com/open?id=1wmt-ZiyCKnWdDj-Nwz0UipG33BbFcs4Y"
+      },
+      {
+        "paper_no": 2,
+        "paper_id": "10",
+        "paper_title": "Dealing with Subjective Valuation and Simplistic Price Multiples Problems",
+        "presenter": "Wikrom Prombutr",
+        "affiliation": "California State University, Long Beach",
+        "coauthors": "Chanwit Phengpis (California State University, Long Beach)",
+        "discussant": "三輪　宏太郎",
+        "pdf_link": "https://drive.google.com/open?id=1d_l73vI4uosMX8vvaZ2j1L0rATw-W8XU"
+      },
+      {
+        "paper_no": 3,
+        "paper_id": "3",
+        "paper_title": "The Benefits of Analyst Teamwork:  Evidence from Responses to Corporate Earnings Announcements",
+        "presenter": "三輪　宏太郎 / Kotaro Miwa",
+        "affiliation": "九州大学",
+        "coauthors": "",
+        "discussant": "Mario Daniele Amore",
+        "pdf_link": "https://drive.google.com/open?id=15Wqo0jwYTnquZwp6DAz1nbPMoGeTqd-6"
+      }
+    ]
+  },
+  {
+    "day": "Day1 (June 27, 2026)",
+    "slot": "PM2 (13:40–16:40)",
     "room": "Room 5 (8701)",
     "session_no": 10,
-    "session_title": "Macro Expectations and Asset Pricing",
+    "session_title": "Macro Expectations and Trading Strategies",
     "language": "Japanese",
     "chair": "中村　信弘",
     "papers": [
@@ -406,99 +499,6 @@
         "coauthors": "",
         "discussant": "Masahiro Watanabe",
         "pdf_link": "https://drive.google.com/open?id=1mCSfe4xl5H__fv6_2kOd85LUgQb3_hvs"
-      }
-    ]
-  },
-  {
-    "day": "Day1 (June 27, 2026)",
-    "slot": "PM2 (15:20–16:40)",
-    "room": "Room 2 (8702)",
-    "session_no": 14,
-    "session_title": "Tick Size and Liquidity Dynamics",
-    "language": "Japanese",
-    "chair": "戸辺　玲子",
-    "papers": [
-      {
-        "paper_no": 1,
-        "paper_id": "65",
-        "paper_title": "指値注文市場における流動性供給の期間構造",
-        "presenter": "太田亘",
-        "affiliation": "大阪大学",
-        "coauthors": "",
-        "discussant": "戸辺　玲子",
-        "pdf_link": "https://drive.google.com/open?id=1Jj2V0YOTz1HiOsQiFIKMbbIGuxdv5_bC"
-      },
-      {
-        "paper_no": 2,
-        "paper_id": "55",
-        "paper_title": "When Tick Size Matters: Competitive Dynamics Between the Tokyo Stock Exchange and Alternative Trading Venues",
-        "presenter": "戸辺　玲子",
-        "affiliation": "二松学舎大学",
-        "coauthors": "宇野　淳 (早稲田大学)",
-        "discussant": "太田亘",
-        "pdf_link": "https://drive.google.com/open?id=1MqVoaSZDqKeICUDocSqVspKDDhosHSXs"
-      }
-    ]
-  },
-  {
-    "day": "Day1 (June 27, 2026)",
-    "slot": "PM2 (15:20–16:40)",
-    "room": "Room 3 (8603)",
-    "session_no": 28,
-    "session_title": "Wealth, Work Flexibility, and Mobility",
-    "language": "English",
-    "chair": "Wing Lam Cheung",
-    "papers": [
-      {
-        "paper_no": 1,
-        "paper_id": "77",
-        "paper_title": "The Friction of Fortune: Flexible Work Arrangements, Stockholdings, and Residential Mobility in Japan",
-        "presenter": "渡邉正太郎 / WATANABE, Shotaro",
-        "affiliation": "立命館アジア太平洋大学 / Ritsumeikan Asia Pacific University",
-        "coauthors": "",
-        "discussant": "Wing Lam Cheung",
-        "pdf_link": "https://drive.google.com/open?id=1nX1vUWnP3N9RjhsTUjmJv_3G7FRb0oGX"
-      },
-      {
-        "paper_no": 2,
-        "paper_id": "76",
-        "paper_title": "Reconciling the Insurance-Wealth Puzzle",
-        "presenter": "Wing Lam Cheung",
-        "affiliation": "Swiss Finance Institute and University of Geneva",
-        "coauthors": "Jing Xian (Swiss Finance Institute and University of Geneva)",
-        "discussant": "渡邉正太郎 / WATANABE, Shotaro",
-        "pdf_link": "https://drive.google.com/open?id=12NcA6msQfytE7GVAyKX7cWMyblaetKrf"
-      }
-    ]
-  },
-  {
-    "day": "Day1 (June 27, 2026)",
-    "slot": "PM2 (15:20–16:40)",
-    "room": "Room 4 (8604)",
-    "session_no": 31,
-    "session_title": "Biases and Technology in M&A",
-    "language": "English",
-    "chair": "Yuanzhe CHENG",
-    "papers": [
-      {
-        "paper_no": 1,
-        "paper_id": "44",
-        "paper_title": "Self-serving Attribution Bias and Corporate Acquisitions",
-        "presenter": "CHEN YING",
-        "affiliation": "東京科学大学",
-        "coauthors": "木村 遥介 (東京科学大学); 井上光太郎 (東京科学大学)",
-        "discussant": "Yuanzhe CHENG",
-        "pdf_link": "https://drive.google.com/open?id=1WCRI8yr4n5gKWCwoQo-RC_RdwWjlpPQo"
-      },
-      {
-        "paper_no": 2,
-        "paper_id": "58",
-        "paper_title": "Technological Similarity and Market Reactions to Cross-Industry Tech-Acquisitions",
-        "presenter": "Yuanzhe CHENG",
-        "affiliation": "Institute of Science Tokyo",
-        "coauthors": "Yuanzhe CHENG (Institute of Science Tokyo); Ying CHEN (Institute of Science Tokyo); Kotaro INOUE (Institute of Science Tokyo)",
-        "discussant": "CHEN YING",
-        "pdf_link": "https://drive.google.com/open?id=1BmNk2xXlcrmQduLQAIwG_6_amkPvbxxx"
       }
     ]
   },
@@ -549,7 +549,7 @@
     "slot": "AM1 (10:00–12:00)",
     "room": "Room 1 (8503)",
     "session_no": 5,
-    "session_title": "Credit, Currency Flows, and Term Structure",
+    "session_title": "Information, Order Flow, Credit",
     "language": "Japanese",
     "chair": "小林武",
     "papers": [
@@ -630,40 +630,40 @@
     "day": "Day2 (June 28, 2026)",
     "slot": "AM1 (10:00–12:00)",
     "room": "Room 3 (8603)",
-    "session_no": 21,
-    "session_title": "Climate Policy, AI, and Carbon Markets",
+    "session_no": 23,
+    "session_title": "Intraday Dynamics and Price Discovery",
     "language": "English",
-    "chair": "大坪 陽一 /Yoichi Otsubo",
+    "chair": "大橋　和彦 / Kazuhiko Ohashi",
     "papers": [
       {
         "paper_no": 1,
-        "paper_id": "19",
-        "paper_title": "How Does Climate Policy Uncertainty Reshape the Cumulative Contribution of Oil Price Shocks? A Structural Perspective",
-        "presenter": "Gong Junlian",
-        "affiliation": "Tohoku University",
-        "coauthors": "Nagayasu Jun (Tohoku University)",
-        "discussant": "Shu-Cing Peng",
-        "pdf_link": "https://drive.google.com/open?id=1LiyohdObB8lcMEZyktftd-SmqeZB6Peg"
+        "paper_id": "36",
+        "paper_title": "Inelastic Hedging Demand and Intraday Momentum",
+        "presenter": "Feng Zhao",
+        "affiliation": "University of Texas at Dallas",
+        "coauthors": "Taeyoung Park (University of Texas at Dallas)",
+        "discussant": "Heather Montgomery",
+        "pdf_link": "https://drive.google.com/open?id=1_6e13WdI_y03TIJ7VRnz6Dxgy5WC3_zI"
       },
       {
         "paper_no": 2,
-        "paper_id": "9",
-        "paper_title": "The Role of Artificial Intelligence in Corporate Decarbonization",
-        "presenter": "Shu-Cing Peng",
-        "affiliation": "National Central University",
-        "coauthors": "Sheng-Syan Chen (National Taiwan University); Yan-Shing Chen (National Taiwan University)",
-        "discussant": "大坪 陽一 /Yoichi Otsubo",
-        "pdf_link": "https://drive.google.com/open?id=1-O5TXK3NAlMxeXNmkPVjQwXuafKky0Cj"
+        "paper_id": "16",
+        "paper_title": "Foreign Exchange Interventions, Information, and Intraday Market Dynamics: Evidence from Japan",
+        "presenter": "Heather Montgomery",
+        "affiliation": "ICU (International Christian University)",
+        "coauthors": "Opale Guyot (International Christian University)",
+        "discussant": "大橋　和彦 / Kazuhiko Ohashi",
+        "pdf_link": "https://drive.google.com/open?id=1PjuV1RWQFF9eQglfTeFE_494M_-jT0Ym"
       },
       {
         "paper_no": 3,
-        "paper_id": "80",
-        "paper_title": "Primary Auction Information, Price Discovery, and Liquidity in Carbon Futures",
-        "presenter": "大坪 陽一 /Yoichi Otsubo",
-        "affiliation": "神戸大学",
-        "coauthors": "大坪陽一 (神戸大学)",
-        "discussant": "Gong Junlian",
-        "pdf_link": "https://drive.google.com/open?id=11yMV0HGv_4jPbHSXlLbpC-oYVX0w89MI"
+        "paper_id": "24",
+        "paper_title": "Supply and Demand Effects in the Japanese Wholesale Electricity Market during the Global Energy Crisis",
+        "presenter": "大橋　和彦 / Kazuhiko Ohashi",
+        "affiliation": "一橋大学・東京科学大学 / Hitotsubashi University and Institute of Science Tokyo",
+        "coauthors": "Hsiu Wu (MS&AD Systems Co., Ltd); Yohei Yamamoto (Hitotsubashi University and Institute of Science Tokyo)",
+        "discussant": "Feng Zhao",
+        "pdf_link": "https://drive.google.com/open?id=1tz84yyOwtc3oZwtfqKtMOlf9cP3DVOuT"
       }
     ]
   },
@@ -671,40 +671,40 @@
     "day": "Day2 (June 28, 2026)",
     "slot": "AM1 (10:00–12:00)",
     "room": "Room 4 (8604)",
-    "session_no": 26,
-    "session_title": "Valuation Methods and Investment Agents",
+    "session_no": 29,
+    "session_title": "Debt Structure, Contracts, and Risk",
     "language": "English",
-    "chair": "三輪　宏太郎 / Kotaro Miwa",
+    "chair": "Jieting Chen",
     "papers": [
       {
         "paper_no": 1,
-        "paper_id": "12",
-        "paper_title": "Using Machine Learning to Estimate the Effect of General Partners on Venture Capital Performance",
-        "presenter": "Mario Daniele Amore",
-        "affiliation": "Bocconi University",
-        "coauthors": "",
-        "discussant": "Wikrom Prombutr",
-        "pdf_link": "https://drive.google.com/open?id=1wmt-ZiyCKnWdDj-Nwz0UipG33BbFcs4Y"
+        "paper_id": "23",
+        "paper_title": "Term Structure of Debt and Investment Spikes",
+        "presenter": "伊藤彰敏",
+        "affiliation": "南山大学",
+        "coauthors": "菊地和宏",
+        "discussant": "Dr Hasibul Chowdhury",
+        "pdf_link": "https://drive.google.com/open?id=10SibfO4Ol_IMJMcixv4L3fCfEH-gImra"
       },
       {
         "paper_no": 2,
-        "paper_id": "10",
-        "paper_title": "Dealing with Subjective Valuation and Simplistic Price Multiples Problems",
-        "presenter": "Wikrom Prombutr",
-        "affiliation": "California State University, Long Beach",
-        "coauthors": "Chanwit Phengpis (California State University, Long Beach)",
-        "discussant": "三輪　宏太郎 / Kotaro Miwa",
-        "pdf_link": "https://drive.google.com/open?id=1d_l73vI4uosMX8vvaZ2j1L0rATw-W8XU"
+        "paper_id": "27",
+        "paper_title": "More Time, More Risk:  CEO Initial Contract Horizons and the Cost of Debt",
+        "presenter": "Dr Hasibul Chowdhury",
+        "affiliation": "University of Queensland",
+        "coauthors": "Hasibul Chowdhury (University of Queensland, Australia); Wenbin Hu (University of Queensland, Australia); Shunji Mei (Adelaide University, Australia); Kelvin Jui Keng Tan (University of Queensland, Australia)",
+        "discussant": "Jieting Chen",
+        "pdf_link": "https://drive.google.com/open?id=1UkhsCkWaf0MX_MxiIyOomnI1wKRfXWTh"
       },
       {
         "paper_no": 3,
-        "paper_id": "3",
-        "paper_title": "The Benefits of Analyst Teamwork:  Evidence from Responses to Corporate Earnings Announcements",
-        "presenter": "三輪　宏太郎 / Kotaro Miwa",
-        "affiliation": "九州大学",
+        "paper_id": "59",
+        "paper_title": "Pollution Premium in the Japanese Stock Market: Preliminary Evidence",
+        "presenter": "Jieting Chen",
+        "affiliation": "大阪公立大学",
         "coauthors": "",
-        "discussant": "Mario Daniele Amore",
-        "pdf_link": "https://drive.google.com/open?id=15Wqo0jwYTnquZwp6DAz1nbPMoGeTqd-6"
+        "discussant": "伊藤彰敏",
+        "pdf_link": "https://drive.google.com/open?id=12vDU4j8hJo1HnTTvH2YePu4D9pHJA4gf"
       }
     ]
   },
@@ -754,7 +754,7 @@
     "slot": "PM1 (13:00–15:00)",
     "room": "Room 1 (8503)",
     "session_no": 6,
-    "session_title": "Policy Shocks and ESG Disclosure",
+    "session_title": "ESG Disclosures and Valuation",
     "language": "Japanese",
     "chair": "五島圭一",
     "papers": [
@@ -795,7 +795,7 @@
     "slot": "PM1 (13:00–15:00)",
     "room": "Room 2 (8702)",
     "session_no": 12,
-    "session_title": "Liquidity Regulation and Transition Optimization",
+    "session_title": "Policy Constraints and Dynamic Decisions",
     "language": "Japanese",
     "chair": "田中 博也",
     "papers": [
@@ -835,40 +835,40 @@
     "day": "Day2 (June 28, 2026)",
     "slot": "PM1 (13:00–15:00)",
     "room": "Room 3 (8603)",
-    "session_no": 23,
-    "session_title": "Intraday Dynamics and Market Microstructure",
+    "session_no": 22,
+    "session_title": "Asset Pricing under Information Shifts",
     "language": "English",
-    "chair": "大橋　和彦 / Kazuhiko Ohashi",
+    "chair": "Wei Huang",
     "papers": [
       {
         "paper_no": 1,
-        "paper_id": "36",
-        "paper_title": "Inelastic Hedging Demand and Intraday Momentum",
-        "presenter": "Feng Zhao",
-        "affiliation": "University of Texas at Dallas",
-        "coauthors": "Taeyoung Park (University of Texas at Dallas)",
-        "discussant": "Heather Montgomery",
-        "pdf_link": "https://drive.google.com/open?id=1_6e13WdI_y03TIJ7VRnz6Dxgy5WC3_zI"
+        "paper_id": "37",
+        "paper_title": "The Elusive CAPM: Idiosyncratic News and the Tilt of the Security Market Line",
+        "presenter": "Adam Upenieks",
+        "affiliation": "University of Calgary",
+        "coauthors": "",
+        "discussant": "Madhura Ghosh",
+        "pdf_link": "https://drive.google.com/open?id=1BMyFK6gH11wtSsocJRz0sigZvcgd-AGl"
       },
       {
         "paper_no": 2,
-        "paper_id": "16",
-        "paper_title": "Foreign Exchange Interventions, Information, and Intraday Market Dynamics: Evidence from Japan",
-        "presenter": "Heather Montgomery",
-        "affiliation": "ICU (International Christian University)",
-        "coauthors": "Opale Guyot (International Christian University)",
-        "discussant": "大橋　和彦 / Kazuhiko Ohashi",
-        "pdf_link": "https://drive.google.com/open?id=1PjuV1RWQFF9eQglfTeFE_494M_-jT0Ym"
+        "paper_id": "42",
+        "paper_title": "The Explanatory Power of the Fama-French Five-Factor Model in the Indian Stock Market",
+        "presenter": "Madhura Ghosh",
+        "affiliation": "Graduate School of Economics, The University of Osaka",
+        "coauthors": "",
+        "discussant": "Wei Huang",
+        "pdf_link": "https://drive.google.com/open?id=1xrfV5wJ0TqvCIKrx70NT003Q3iRFRdgV"
       },
       {
         "paper_no": 3,
-        "paper_id": "24",
-        "paper_title": "Supply and Demand Effects in the Japanese Wholesale Electricity Market during the Global Energy Crisis",
-        "presenter": "大橋　和彦 / Kazuhiko Ohashi",
-        "affiliation": "一橋大学・東京科学大学 / Hitotsubashi University and Institute of Science Tokyo",
-        "coauthors": "Hsiu Wu (MS&AD Systems Co., Ltd); Yohei Yamamoto (Hitotsubashi University and Institute of Science Tokyo)",
-        "discussant": "Feng Zhao",
-        "pdf_link": "https://drive.google.com/open?id=1tz84yyOwtc3oZwtfqKtMOlf9cP3DVOuT"
+        "paper_id": "34",
+        "paper_title": "Assessing the Importance of Macroeconomic Announcements",
+        "presenter": "Wei Huang",
+        "affiliation": "University of Minnesota Duluth",
+        "coauthors": "Linda H. Chen (University of Idaho); Wei Huang (University of Minnesota Duluth); George J. Jiang (Washington State University)",
+        "discussant": "Adam Upenieks",
+        "pdf_link": "https://drive.google.com/open?id=1TuSvL1Z0Ysj5NAwe0i18H4dUh518AmQe"
       }
     ]
   },
@@ -876,40 +876,40 @@
     "day": "Day2 (June 28, 2026)",
     "slot": "PM1 (13:00–15:00)",
     "room": "Room 4 (8604)",
-    "session_no": 29,
-    "session_title": "Debt Structure, Contracts, and Pollution",
+    "session_no": 30,
+    "session_title": "Policy, Innovation, and ESG Risks",
     "language": "English",
-    "chair": "Jieting Chen",
+    "chair": "Jun Myung Song",
     "papers": [
       {
         "paper_no": 1,
-        "paper_id": "23",
-        "paper_title": "Term Structure of Debt and Investment Spikes",
-        "presenter": "伊藤彰敏",
-        "affiliation": "南山大学",
-        "coauthors": "菊地和宏",
-        "discussant": "Dr Hasibul Chowdhury",
-        "pdf_link": "https://drive.google.com/open?id=10SibfO4Ol_IMJMcixv4L3fCfEH-gImra"
+        "paper_id": "35",
+        "paper_title": "Political Uncertainty and the Artificial Intelligence Innovation: Evidence from U.S. Patent Data",
+        "presenter": "TIAN JINGYI",
+        "affiliation": "Kanazawa University",
+        "coauthors": "Shutong Zhang (Tohoku University); Yikai Zhao (Tohoku University); Jun Nagayasu (Tohoku University)",
+        "discussant": "Wang Ziqi",
+        "pdf_link": "https://drive.google.com/open?id=19NGhGlaCoHDKu2LlHzHO3UwBoMZPQhw3"
       },
       {
         "paper_no": 2,
-        "paper_id": "27",
-        "paper_title": "More Time, More Risk:  CEO Initial Contract Horizons and the Cost of Debt",
-        "presenter": "Dr Hasibul Chowdhury",
-        "affiliation": "University of Queensland",
-        "coauthors": "Hasibul Chowdhury (University of Queensland, Australia); Wenbin Hu (University of Queensland, Australia); Shunji Mei (Adelaide University, Australia); Kelvin Jui Keng Tan (University of Queensland, Australia)",
-        "discussant": "Jieting Chen",
-        "pdf_link": "https://drive.google.com/open?id=1UkhsCkWaf0MX_MxiIyOomnI1wKRfXWTh"
+        "paper_id": "47",
+        "paper_title": "Innovation Knowledge Stock and Oil Price Exposure",
+        "presenter": "Wang Ziqi",
+        "affiliation": "東京科学大学工学院経営工学コース",
+        "coauthors": "Wang Ziqi (東京科学大学); Hou Xinyao (清華大学); 木村遥介 (東京科学大学)",
+        "discussant": "Jun Myung Song",
+        "pdf_link": "https://drive.google.com/open?id=1Wk8ZdcmG53n1XZ5a7PjyD5yExOTPiX6w"
       },
       {
         "paper_no": 3,
-        "paper_id": "59",
-        "paper_title": "Pollution Premium in the Japanese Stock Market: Preliminary Evidence",
-        "presenter": "Jieting Chen",
-        "affiliation": "大阪公立大学",
+        "paper_id": "18",
+        "paper_title": "The Impact of EU Taxonomy on  Firms’ ESG Performance and Risks",
+        "presenter": "Jun Myung Song",
+        "affiliation": "Hitotsubashi University",
         "coauthors": "",
-        "discussant": "伊藤彰敏",
-        "pdf_link": "https://drive.google.com/open?id=12vDU4j8hJo1HnTTvH2YePu4D9pHJA4gf"
+        "discussant": "TIAN JINGYI",
+        "pdf_link": "https://drive.google.com/open?id=18xHCogs5Kd-y77OLq2vmUjBGu7ULSVlh"
       }
     ]
   },
@@ -925,53 +925,32 @@
       {
         "paper_no": 1,
         "paper_id": "91",
-        "paper_title": "武蔵大学セッション, Musashi University Session",
+        "paper_title": "武蔵大学セッション, Musashi University Session 1",
         "presenter": "TBD",
         "affiliation": "TBD",
         "coauthors": "",
-        "discussant": "",
+        "discussant": "TBD",
         "pdf_link": ""
-      }
-    ]
-  },
-  {
-    "day": "Day2 (June 28, 2026)",
-    "slot": "PM2 (15:20–17:20)",
-    "room": "Room 3 (8603)",
-    "session_no": 32,
-    "session_title": "Volatility Signals and Momentum Predictability",
-    "language": "English",
-    "chair": "LEE JIHO",
-    "papers": [
-      {
-        "paper_no": 1,
-        "paper_id": "2",
-        "paper_title": "Countercyclical Risk Aversion and Volatility-Managed Portfolios",
-        "presenter": "Xia Xu",
-        "affiliation": "ESSCA School of Management, France",
-        "coauthors": "",
-        "discussant": "Terry Zhang",
-        "pdf_link": "https://drive.google.com/open?id=1nxaU6t75CDQBt--VnqjsiRFk9lh5VW0V"
       },
       {
         "paper_no": 2,
-        "paper_id": "38",
-        "paper_title": "The Global Implied Volatility Surface and Common Predictability of International Equity Premia",
-        "presenter": "Terry Zhang",
-        "affiliation": "Australian National University",
-        "coauthors": "Adlai Fisher (University of British Columbia)",
-        "discussant": "LEE JIHO",
-        "pdf_link": "https://drive.google.com/open?id=1tkuDVlrOzPgkdsow_MrB1TA9gZdeKXbU"
+        "paper_id": "91",
+        "paper_title": "武蔵大学セッション, Musashi University Session 2",
+        "presenter": "TBD",
+        "affiliation": "TBD",
+        "coauthors": "",
+        "discussant": "TBD",
+        "pdf_link": ""
       },
       {
         "paper_no": 3,
-        "paper_id": "39",
-        "paper_title": "Structural Comparison of Cross-Sectional and Time-Series Momentum in Japan and the United States",
-        "presenter": "LEE JIHO",
-        "affiliation": "一橋大学　経済学研究科",
+        "paper_id": "91",
+        "paper_title": "武蔵大学セッション, Musashi University Session 3",
+        "presenter": "TBD",
+        "affiliation": "TBD",
         "coauthors": "",
-        "discussant": "Xia Xu",
-        "pdf_link": "https://drive.google.com/open?id=142y19kjMPioEjGiwTOAIjKlBBaiJQYVb"
+        "discussant": "TBD",
+        "pdf_link": ""
       }
     ]
   },
@@ -980,7 +959,7 @@
     "slot": "PM2 (15:20–17:20)",
     "room": "Room 1 (8503)",
     "session_no": 7,
-    "session_title": "Board Composition, Succession, and Governance",
+    "session_title": "Board Composition and Firm Outcomes",
     "language": "Japanese",
     "chair": "鈴木健嗣",
     "papers": [
@@ -1021,7 +1000,7 @@
     "slot": "PM2 (15:20–17:20)",
     "room": "Room 2 (8702)",
     "session_no": 13,
-    "session_title": "Bank Ties, Listings, and Buybacks",
+    "session_title": "Financial Relationships and Firm Decisions",
     "language": "Japanese",
     "chair": "岡田立子",
     "papers": [
@@ -1050,9 +1029,91 @@
   {
     "day": "Day2 (June 28, 2026)",
     "slot": "PM2 (15:20–17:20)",
+    "room": "Room 3 (8603)",
+    "session_no": 24,
+    "session_title": "Disclosure, Governance, and Misconduct",
+    "language": "English",
+    "chair": "岡田克彦 / Katsuhiko Okada",
+    "papers": [
+      {
+        "paper_no": 1,
+        "paper_id": "8",
+        "paper_title": "Workforce Mobility and Corporate Misconduct: The Governance Effects of Noncompete Agreements",
+        "presenter": "Kentaro Asai",
+        "affiliation": "Kyoto University",
+        "coauthors": "Nhan Le (Australian National University); Qianru Zhang (Australian National University)",
+        "discussant": "Ken Sison",
+        "pdf_link": "https://drive.google.com/open?id=1KMQK-zRrNHfPs_mT3NiVGFR5tOoLJ6ZB"
+      },
+      {
+        "paper_no": 2,
+        "paper_id": "48",
+        "paper_title": "Do Fraud Triangle Elements and Management Earnings Forecasts Predict Financial Statement Fraud Risk? Evidence from Japan",
+        "presenter": "Ken Sison",
+        "affiliation": "University of Tsukuba",
+        "coauthors": "Mina Ryoke (University of Tsukuba); Keisuke Ito (University of Tsukuba)",
+        "discussant": "岡田克彦 / Katsuhiko Okada",
+        "pdf_link": "https://drive.google.com/open?id=18H5zKWLKEkNfPcFOwmidDvN3h7e1rxYS"
+      },
+      {
+        "paper_no": 3,
+        "paper_id": "14",
+        "paper_title": "Disclosure Changes in a Low-Litigation Environment",
+        "presenter": "岡田克彦",
+        "affiliation": "関西学院大学",
+        "coauthors": "中筋萌 (関西学院大学博士後期課程); 月岡靖智 (関西学院大学商学部); 山﨑高弘 (大阪産業大学システム工学部)",
+        "discussant": "Kentaro Asai",
+        "pdf_link": "https://drive.google.com/open?id=1IJEz8RJd2puPHm6PCabNeYOYjaKmxgV-"
+      }
+    ]
+  },
+  {
+    "day": "Day2 (June 28, 2026)",
+    "slot": "PM2 (15:20–17:20)",
+    "room": "Room 4 (8604)",
+    "session_no": 32,
+    "session_title": "Volatility Signals and Return Predictability",
+    "language": "English",
+    "chair": "LEE JIHO",
+    "papers": [
+      {
+        "paper_no": 1,
+        "paper_id": "2",
+        "paper_title": "Countercyclical Risk Aversion and Volatility-Managed Portfolios",
+        "presenter": "Xia Xu",
+        "affiliation": "ESSCA School of Management, France",
+        "coauthors": "",
+        "discussant": "Terry Zhang",
+        "pdf_link": "https://drive.google.com/open?id=1nxaU6t75CDQBt--VnqjsiRFk9lh5VW0V"
+      },
+      {
+        "paper_no": 2,
+        "paper_id": "38",
+        "paper_title": "The Global Implied Volatility Surface and Common Predictability of International Equity Premia",
+        "presenter": "Terry Zhang",
+        "affiliation": "Australian National University",
+        "coauthors": "Adlai Fisher (University of British Columbia)",
+        "discussant": "LEE JIHO",
+        "pdf_link": "https://drive.google.com/open?id=1tkuDVlrOzPgkdsow_MrB1TA9gZdeKXbU"
+      },
+      {
+        "paper_no": 3,
+        "paper_id": "39",
+        "paper_title": "Structural Comparison of Cross-Sectional and Time-Series Momentum in Japan and the United States",
+        "presenter": "LEE JIHO",
+        "affiliation": "一橋大学　経済学研究科",
+        "coauthors": "",
+        "discussant": "Xia Xu",
+        "pdf_link": "https://drive.google.com/open?id=142y19kjMPioEjGiwTOAIjKlBBaiJQYVb"
+      }
+    ]
+  },
+  {
+    "day": "Day2 (June 28, 2026)",
+    "slot": "PM2 (15:20–17:20)",
     "room": "Room 5 (8701)",
     "session_no": 27,
-    "session_title": "Investor Attention and Fund Flows",
+    "session_title": "Investor Responses to Information Salience",
     "language": "English",
     "chair": "本多　純 / Jun Honda",
     "papers": [
@@ -1073,7 +1134,7 @@
         "presenter": "Tomoki Kitamura",
         "affiliation": "Musashi University",
         "coauthors": "Kozo Omori (Osaka University of Economics)",
-        "discussant": "本多　純 / Jun Honda",
+        "discussant": "本多　純",
         "pdf_link": "https://drive.google.com/open?id=19QuVxuoZr0hCFKfwlcvcvgpNHWPSNOpN"
       },
       {
@@ -1085,47 +1146,6 @@
         "coauthors": "",
         "discussant": "Jing Xian",
         "pdf_link": "https://drive.google.com/open?id=1uATgFl98UMx8do1-ewoP-ea6J33cMPrz"
-      }
-    ]
-  },
-  {
-    "day": "Day2 (June 28, 2026)",
-    "slot": "PM2 (15:20–17:20)",
-    "room": "Room 4 (8604)",
-    "session_no": 30,
-    "session_title": "Policy, Innovation, and ESG Risks",
-    "language": "English",
-    "chair": "Jun Myung Song",
-    "papers": [
-      {
-        "paper_no": 1,
-        "paper_id": "35",
-        "paper_title": "Political Uncertainty and the Artificial Intelligence Innovation: Evidence from U.S. Patent Data",
-        "presenter": "TIAN JINGYI",
-        "affiliation": "Kanazawa University",
-        "coauthors": "Shutong Zhang (Tohoku University); Yikai Zhao (Tohoku University); Jun Nagayasu (Tohoku University)",
-        "discussant": "Wang Ziqi",
-        "pdf_link": "https://drive.google.com/open?id=19NGhGlaCoHDKu2LlHzHO3UwBoMZPQhw3"
-      },
-      {
-        "paper_no": 2,
-        "paper_id": "47",
-        "paper_title": "Innovation Knowledge Stock and Oil Price Exposure",
-        "presenter": "Wang Ziqi",
-        "affiliation": "東京科学大学工学院経営工学コース",
-        "coauthors": "Wang Ziqi (東京科学大学); Hou Xinyao (清華大学); 木村遥介 (東京科学大学)",
-        "discussant": "Jun Myung Song",
-        "pdf_link": "https://drive.google.com/open?id=1Wk8ZdcmG53n1XZ5a7PjyD5yExOTPiX6w"
-      },
-      {
-        "paper_no": 3,
-        "paper_id": "18",
-        "paper_title": "The Impact of EU Taxonomy on  Firms’ ESG Performance and Risks",
-        "presenter": "Jun Myung Song",
-        "affiliation": "Hitotsubashi University",
-        "coauthors": "",
-        "discussant": "TIAN JINGYI",
-        "pdf_link": "https://drive.google.com/open?id=18xHCogs5Kd-y77OLq2vmUjBGu7ULSVlh"
       }
     ]
   }

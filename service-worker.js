@@ -1,15 +1,14 @@
-const CACHE_NAME = "nfa-program-v4";
+const CACHE_NAME = "nfa-program-v9";
 
 const URLS = [
   "./",
   "./index.html",
   "./style.css",
   "./app.js",
-  "./manifest.json",
-  "./service-worker.js"
+  "./manifest.json"
 ];
 
-// 新しい service worker をすぐ有効化
+// Activate the new service worker immediately.
 self.addEventListener("install", (event) => {
   self.skipWaiting();
   event.waitUntil(
@@ -17,7 +16,7 @@ self.addEventListener("install", (event) => {
   );
 });
 
-// 古いキャッシュを削除
+// Delete old caches.
 self.addEventListener("activate", (event) => {
   event.waitUntil(
     caches.keys().then(keys =>
@@ -30,7 +29,7 @@ self.addEventListener("activate", (event) => {
   );
 });
 
-// program_detailed.json は常にネットワーク優先
+// Always fetch program_detailed.json from the network first.
 self.addEventListener("fetch", (event) => {
   const url = new URL(event.request.url);
 
